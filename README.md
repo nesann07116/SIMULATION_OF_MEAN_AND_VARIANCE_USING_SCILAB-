@@ -76,10 +76,13 @@ OUTPUT
 
  
 TABULATION
+
+
 ![WhatsApp Image 2025-11-23 at 14 53 35_b2ab6148](https://github.com/user-attachments/assets/44c35fa9-7c9f-4765-969f-70b6946b38df)
 
 
 
-RESULT: 
+RESULT:
+
 Thus the mean , variance and cross correlation are executed in Scilab and output is verified. 
 
