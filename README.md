@@ -72,10 +72,12 @@ plot2d3('gnn',r);
 ```
 
 OUTPUT
-<img width="1506" height="932" alt="image" src="https://github.com/user-attachments/assets/6b5fc2ad-0a5d-4d85-89a6-4a5a4a020ab9" />
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/fcfd268d-bd66-419f-b052-8f839b26ae71" />
+
  
 TABULATION
-![WhatsApp Image 2025-10-24 at 18 02 28_e178c8ab](https://github.com/user-attachments/assets/813943f8-df80-4927-915a-56d33dbc247a)
+![WhatsApp Image 2025-11-23 at 14 53 35_b2ab6148](https://github.com/user-attachments/assets/44c35fa9-7c9f-4765-969f-70b6946b38df)
+
 
 
 RESULT: 
